@@ -33,15 +33,15 @@ nav {
     width: 10;
 }
 main {
-    background: url("https://raw.githubusercontent.com/alexrintt/lofi-player/master/src/assets/attack.gif") no-repeat center center;
-    background-size: cover;
-    height: 92vh;
-    margin: 6;
     color: white;
     font-family: system-ui, -apple-system, Helvetica, Arial, sans-serif;
     font-size: 30px;
     padding-left: 15px;
-}*/
+    background: url("https://raw.githubusercontent.com/alexrintt/lofi-player/master/src/assets/attack.gif") no-repeat center center;
+    background-size: cover;
+    height: 92vh;
+    margin: 6;
+}
 
 #descer {
     height: 50px;
